@@ -14,8 +14,3 @@ As part of my cybersecurity learning journey, this tool helps me understand:
 - Accepts a target IP address
 - Scans common ports (21, 22, 23, 80, 443, etc.)
 - Reports which ones are open
-
-## ▶️ Run Instructions
-
-```bash
-python3 scanner.py
