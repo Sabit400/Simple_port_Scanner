@@ -1,0 +1,4 @@
+Enter target IP: 192.168.1.1
+Scanning 192.168.1.1 for open ports...
+Port 22 is OPEN
+Port 80 is OPEN
